@@ -13,5 +13,6 @@ A 4-person Business Intelligence project on ~23,000 Milan Airbnb listings (June 
 > ⚠️ The Tableau workbook is ~229 MB (over GitHub's 100 MB limit), so it isn't stored here.
 > **To add:** the team report PDF, dashboard screenshots, and the Tableau Public link below.
 
-🔗 **Tableau Public:** link[https://public.tableau.com/views/MilanAirbnbGeographicAnalysis/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
+🔗 **Tableau Public:** [https://public.tableau.com/views/MilanAirbnbGeographicAnalysis/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
+
 **Skills:** Tableau · geospatial maps · LOD expressions · data cleaning · market analysis
