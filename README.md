@@ -14,6 +14,6 @@ Projects across **Tableau, SQL and Python** — marketing & funnel analytics, da
 | 03 | **The Formula of a Spotify Hit** | Tableau | [Tableau](https://public.tableau.com/views/FinalProject_17658991439740/Dashboard) |
 | 04 | **Advanced SQL** — optimization · data warehouse (SCD2) · nested JSON | MySQL, BigQuery | — |
 | 05 | **Python Geospatial EDA** — 1850 census | pandas, GeoPandas, Altair | — |
-| 06 | **Overnight vs Intraday Returns** — where the US equity premium accrues (SPY, QQQ, IWM) | pandas, SciPy, Matplotlib | [Notebook](06-overnight-returns/analysis.ipynb) |
+| 06 | **Overnight vs Intraday Returns** — where the US equity premium accrues (SPY, QQQ, IWM) | pandas, SciPy, Matplotlib | [Notebook](06-overnight-returns/analysis.ipynb) · [Video](https://www.loom.com/share/dbc0074c2c6e4da7833e0a394ed162c4) |
 
 Each folder has its own README with the question, key findings and skills.
