@@ -10,7 +10,7 @@ costs.
 SPY was earned **overnight**; for QQQ and IWM the intraday session actually *lost*
 money over the full period. The effect is real but **not tradable after costs**.
 
-**▶️ 2-minute video walkthrough:** https://www.loom.com/share/dbc0074c2c6e4da7833e0a394ed162c4
+**▶️ 5-minute video walkthrough:** https://www.loom.com/share/dbc0074c2c6e4da7833e0a394ed162c4
 
 ---
 
